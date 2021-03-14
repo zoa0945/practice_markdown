@@ -19,12 +19,10 @@ MARKDOWN 연습 for README.md
 3. 리스트3
 
 # 4. 기울어진 글씨 작성
-*텍스트*
-ex) *Hello Markdown*
+*텍스트*  ex) *Hello Markdown*
 
 # 5. 굵은 글씨 작성
-**텍스트**
-ex) **Hello Markdown**
+**텍스트**  ex) **Hello Markdown**
 
 # 6. 인용
 > 인용1
@@ -41,7 +39,7 @@ ex) **Hello Markdown**
 
 (2) 참조 링크
 [블로그 주소][blog]
-[blod]: https://dev0945.tistory.com/
+[blog]: https://dev0945.tistory.com/
 
 # 9. 이미지 추가
 ![이미지 제목](이미지 url)
