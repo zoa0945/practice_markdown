@@ -45,11 +45,11 @@ ex) **Hello Markdown**
 
 # 8. 링크
 (1) 인라인 링크  
-[블로그 주소](https://dev0945.tistory.com/)
+[링크 주소](https://dev0945.tistory.com/)
 
-(2) 참조 링크  
-[블로그 주소][blog]  
-[blog]: https://dev0945.tistory.com "My blog"  
+(2) 외부 링크  
+[Title](링크 주소)  
+[blog](https://dev0945.tistory.com, "My blog")  
 
 
 # 9. 이미지 추가
