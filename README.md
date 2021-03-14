@@ -1,63 +1,63 @@
 # Markdown 연습
-MARKDOWN 연습 for README.md
+MARKDOWN 연습 for README.md  
 
 # 1. 제목(글머리) 작성
 # H1 제목
 ## H2 부제목
 ### H3 소제목
 #### H4 제목4
-##### H5 제목5
+##### H5 제목5  
 
 # 2. 번호 없는 리스트
 * 리스트1
   - 리스트2
-    + 리스트3
+    + 리스트3  
     
 # 3. 번호 있는 리스트
 1. 리스트1
 2. 리스트2
-3. 리스트3
+3. 리스트3  
 
 # 4. 기울어진 글씨 작성
 *텍스트*  
-ex) *Hello Markdown*
+ex) *Hello Markdown*  
 
 # 5. 굵은 글씨 작성
 **텍스트**  
-ex) **Hello Markdown**
+ex) **Hello Markdown**  
 
 # 6. 인용
 > 인용1
 
 > 인용2
->> 인용 안에서 인용
+>> 인용 안에서 인용  
 
 # 7. 수평선 넣기
----
+---  
 
 # 8. 링크
-(1) 인라인 링크
-[블로그 주소](https://dev0945.tistory.com/)
+(1) 인라인 링크  
+[블로그 주소](https://dev0945.tistory.com/)  
 
-(2) 참조 링크
-[블로그 주소][blog]
-[blog]: https://dev0945.tistory.com/
+(2) 참조 링크  
+[블로그 주소][blog]  
+[blog]: https://dev0945.tistory.com/  
 
 # 9. 이미지 추가
-![이미지 제목](이미지 url)
+![이미지 제목](이미지 url)  
 
 ### 이미지 사이즈 조절
-<img src="이미지 url" width="" height="">
+<img src="이미지 url" width="" height="">  
 
 ### 이미지 파일로 추가
-<img src="파일명.jpg" width="">
+<img src="파일명.jpg" width="">  
 
 # 10. 코드블럭 추가
 ```swift
 func Hello() {
   print("Hello Markdown")
 }
-```
+```  
 
 # etc
 ~~텍스트 취소선~~
