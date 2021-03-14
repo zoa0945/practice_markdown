@@ -49,7 +49,7 @@ ex) **Hello Markdown**
 
 (2) 참조 링크  
 [블로그 주소][blog]  
-[blog]: https://dev0945.tistory.com/  
+[blog](https://dev0945.tistory.com/, "My blog")  
 
 
 # 9. 이미지 추가
