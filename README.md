@@ -1,4 +1,4 @@
-#Markdown 연습
+# Markdown 연습
 MARKDOWN 연습 for README.md
 
 # 1. 제목(글머리) 작성
